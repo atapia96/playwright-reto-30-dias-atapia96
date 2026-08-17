@@ -1,0 +1,23 @@
+{
+  "name": "playwright-reto-30-dias-atapia96",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atapia96/playwright-reto-30-dias-atapia96.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/atapia96/playwright-reto-30-dias-atapia96/issues"
+  },
+  "homepage": "https://github.com/atapia96/playwright-reto-30-dias-atapia96#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}
